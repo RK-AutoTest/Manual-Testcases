@@ -5,4 +5,4 @@ Two Modules
 1. Career- More than 150 testcases
 2. Courses and Workshop- More that 600 test cases.
 
-Included Bug Report Jira formate sample.
+Included bug report sample.
